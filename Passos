@@ -74,7 +74,7 @@ public static class Function1
 
 3. Publicar a função
 
-func azure functionapp publish <SuaFunctionApp>
+func azure functionapp publish ValidadorCpf
 
 
 
